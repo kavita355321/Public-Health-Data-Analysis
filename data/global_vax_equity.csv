@@ -1,0 +1,190 @@
+iso_code,location,year,total_vaccinations,new_cases,new_deaths,Country Code,health_spending,Region,IncomeGroup,vax_scaled,spend_scaled,death_scaled,health_equity_score
+ABW,Aruba,2024,174914.0,0.0,0.0,ABW,0.0,Latin America & Caribbean,High income,1.2881427691057509e-05,0.0,1.0,0.20000515257107643
+AFG,Afghanistan,2024,0.0,4839.0,25.0,AFG,0.0,South Asia,Low income,0.0,0.0,0.9994083960433527,0.19988167920867056
+AGO,Angola,2024,0.0,553.0,0.0,AGO,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+ALB,Albania,2024,0.0,451.0,1.0,ALB,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,0.9999763358417341,0.1999952671683468
+AND,Andorra,2024,0.0,0.0,0.0,AND,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+ARE,United Arab Emirates,2024,0.0,0.0,0.0,ARE,0.0,Middle East & North Africa,High income,0.0,0.0,1.0,0.2
+ARG,Argentina,2024,116978521.0,56261.0,191.0,ARG,0.0,Latin America & Caribbean,Upper middle income,0.008614807046138973,0.0,0.9954801457712149,0.2025419519726986
+ARM,Armenia,2024,0.0,847.0,2.0,ARM,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,0.9999526716834682,0.19999053433669367
+ASM,American Samoa,2024,0.0,0.0,0.0,ASM,0.0,East Asia & Pacific,High income,0.0,0.0,1.0,0.2
+ATG,Antigua and Barbuda,2024,0.0,0.0,0.0,ATG,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+AUS,Australia,2024,0.0,139626.0,892.0,AUS,0.0,East Asia & Pacific,High income,0.0,0.0,0.9788915708268257,0.19577831416536515
+AUT,Austria,2024,0.0,274.0,0.0,AUT,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+AZE,Azerbaijan,2024,0.0,1503.0,0.0,AZE,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,1.0,0.2
+BDI,Burundi,2024,0.0,108.0,0.0,BDI,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+BEL,Belgium,2024,31469387.0,24084.0,0.0,BEL,0.0,Europe & Central Asia,High income,0.002317542524454333,0.0,1.0,0.20092701700978174
+BEN,Benin,2024,0.0,0.0,0.0,BEN,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+BFA,Burkina Faso,2024,0.0,30.0,0.0,BFA,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+BGD,Bangladesh,2024,361742554.0,5056.0,22.0,BGD,0.0,South Asia,Lower middle income,0.026640294957118737,0.0,0.9994793885181504,0.2105519956864776
+BGR,Bulgaria,2024,4726614.0,6410.0,70.0,BGR,0.0,Europe & Central Asia,High income,0.00034808841181689344,0.0,0.9983435089213877,0.1998079371490043
+BHR,Bahrain,2024,0.0,0.0,0.0,BHR,0.0,Middle East & North Africa,High income,0.0,0.0,1.0,0.2
+BIH,Bosnia and Herzegovina,2024,0.0,158.0,12.0,BIH,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,0.9997160301008093,0.19994320602016188
+BLR,Belarus,2024,0.0,0.0,0.0,BLR,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,1.0,0.2
+BLZ,Belize,2024,0.0,31.0,0.0,BLZ,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,1.0,0.2
+BMU,Bermuda,2024,0.0,0.0,0.0,BMU,0.0,North America,High income,0.0,0.0,1.0,0.2
+BOL,Bolivia,2024,0.0,51.0,2.0,BOL,0.0,Latin America & Caribbean,Lower middle income,0.0,0.0,0.9999526716834682,0.19999053433669367
+BRA,Brazil,2024,0.0,0.0,0.0,BRA,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,1.0,0.2
+BRB,Barbados,2024,0.0,788.0,0.0,BRB,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+BTN,Bhutan,2024,0.0,0.0,0.0,BTN,0.0,South Asia,Lower middle income,0.0,0.0,1.0,0.2
+BWA,Botswana,2024,0.0,279.0,1.0,BWA,0.0,Sub-Saharan Africa,Upper middle income,0.0,0.0,0.9999763358417341,0.1999952671683468
+CAF,Central African Republic,2024,0.0,1.0,0.0,CAF,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+CAN,Canada,2024,102877159.0,44819.0,841.0,CAN,0.0,North America,High income,0.007576321419211306,0.0,0.9800984428983861,0.19905021714736174
+CHE,Switzerland,2024,0.0,10927.0,0.0,CHE,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+CHL,Chile,2024,0.0,68149.0,503.0,CHL,0.0,Latin America & Caribbean,High income,0.0,0.0,0.988096928392257,0.19761938567845141
+CHN,China,2024,0.0,50492.0,433.0,CHN,0.0,East Asia & Pacific,Upper middle income,0.0,0.0,0.9897534194708695,0.19795068389417392
+CIV,Cote d'Ivoire,2024,0.0,50.0,0.0,CIV,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+CMR,Cameroon,2024,0.0,109.0,0.0,CMR,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+COL,Colombia,2024,0.0,25882.0,0.0,COL,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,1.0,0.2
+COM,Comoros,2024,0.0,0.0,0.0,COM,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+CRI,Costa Rica,2024,0.0,4149.0,6.0,CRI,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,0.9998580150504046,0.19997160301008093
+CUB,Cuba,2024,45995747.0,68.0,0.0,CUB,0.0,Latin America & Caribbean,Upper middle income,0.003387326852491369,0.0,1.0,0.20135493074099656
+CUW,Curacao,2024,0.0,0.0,0.0,CUW,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+CYM,Cayman Islands,2024,0.0,0.0,0.0,CYM,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+CYP,Cyprus,2024,0.0,21301.0,57.0,CYP,0.0,Europe & Central Asia,High income,0.0,0.0,0.9986511429788443,0.19973022859576886
+CZE,Czechia,2024,19047108.0,15296.0,155.0,CZE,0.0,Europe & Central Asia,High income,0.001402711872267303,0.0,0.996332055468787,0.19982749584266435
+DEU,Germany,2024,0.0,0.0,0.0,DEU,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+DJI,Djibouti,2024,0.0,0.0,0.0,DJI,0.0,Middle East & North Africa,Lower middle income,0.0,0.0,1.0,0.2
+DMA,Dominica,2024,0.0,0.0,0.0,DMA,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,1.0,0.2
+DNK,Denmark,2024,0.0,3333.0,200.0,DNK,0.0,Europe & Central Asia,High income,0.0,0.0,0.9952671683468219,0.1990534336693644
+DOM,Dominican Republic,2024,0.0,0.0,0.0,DOM,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,1.0,0.2
+DZA,Algeria,2024,0.0,129.0,0.0,DZA,0.0,Middle East & North Africa,Upper middle income,0.0,0.0,1.0,0.2
+ECU,Ecuador,2024,0.0,9046.0,26.0,ECU,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,0.9993847318850868,0.19987694637701736
+ERI,Eritrea,2024,0.0,0.0,0.0,ERI,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+ESP,Spain,2024,0.0,0.0,0.0,ESP,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+EST,Estonia,2024,2171623.0,1890.0,26.0,EST,0.0,Europe & Central Asia,High income,0.00015992776248177607,0.0,0.9993847318850868,0.19994091748201007
+ETH,Ethiopia,2024,0.0,76.0,0.0,ETH,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+FIN,Finland,2024,13327120.0,0.0,58.0,FIN,0.0,Europe & Central Asia,High income,0.000981467078736101,0.0,0.9986274788205783,0.20011808259561012
+FJI,Fiji,2024,0.0,0.0,0.0,FJI,0.0,East Asia & Pacific,Upper middle income,0.0,0.0,1.0,0.2
+FRA,France,2024,0.0,0.0,0.0,FRA,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+FRO,Faroe Islands,2024,0.0,0.0,0.0,FRO,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+GAB,Gabon,2024,0.0,0.0,0.0,GAB,0.0,Sub-Saharan Africa,Upper middle income,0.0,0.0,1.0,0.2
+GBR,United Kingdom,2024,0.0,109370.0,0.0,GBR,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+GEO,Georgia,2024,0.0,6633.0,9.0,GEO,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,0.999787022575607,0.19995740451512142
+GHA,Ghana,2024,0.0,228.0,0.0,GHA,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+GIB,Gibraltar,2024,0.0,0.0,0.0,GIB,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+GIN,Guinea,2024,0.0,0.0,0.0,GIN,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+GNB,Guinea-Bissau,2024,0.0,0.0,0.0,GNB,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+GNQ,Equatorial Guinea,2024,0.0,0.0,0.0,GNQ,0.0,Sub-Saharan Africa,Upper middle income,0.0,0.0,1.0,0.2
+GRC,Greece,2024,22467978.0,103320.0,837.0,GRC,0.0,Europe & Central Asia,High income,0.0016546396170190546,0.0,0.9801930995314496,0.19670047575309754
+GRD,Grenada,2024,0.0,0.0,0.0,GRD,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,1.0,0.2
+GRL,Greenland,2024,0.0,0.0,0.0,GRL,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+GTM,Guatemala,2024,0.0,64.0,2.0,GTM,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,0.9999526716834682,0.19999053433669367
+GUM,Guam,2024,0.0,0.0,0.0,GUM,0.0,East Asia & Pacific,High income,0.0,0.0,1.0,0.2
+GUY,Guyana,2024,0.0,760.0,3.0,GUY,0.0,Latin America & Caribbean,High income,0.0,0.0,0.9999290075252023,0.19998580150504047
+HND,Honduras,2024,0.0,149.0,0.0,HND,0.0,Latin America & Caribbean,Lower middle income,0.0,0.0,1.0,0.2
+HRV,Croatia,2024,0.0,7416.0,65.0,HRV,0.0,Europe & Central Asia,High income,0.0,0.0,0.9984618297127171,0.19969236594254344
+HTI,Haiti,2024,0.0,228.0,0.0,HTI,0.0,Latin America & Caribbean,Lower middle income,0.0,0.0,1.0,0.2
+HUN,Hungary,2024,0.0,3641.0,62.0,HUN,0.0,Europe & Central Asia,High income,0.0,0.0,0.9985328221875148,0.19970656443750298
+IDN,Indonesia,2024,0.0,7629.0,91.0,IDN,0.0,East Asia & Pacific,Upper middle income,0.0,0.0,0.9978465615978039,0.1995693123195608
+IMN,Isle of Man,2024,0.0,0.0,0.0,IMN,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+IND,India,2024,2206868000.0,28576.0,262.0,IND,0.0,South Asia,Lower middle income,0.16252335756834047,0.0,0.9937999905343367,0.2637693411342035
+IRL,Ireland,2024,11148281.0,16135.0,292.0,IRL,0.0,Europe & Central Asia,High income,0.0008210078986307002,0.0,0.9930900657863599,0.1989464163167243
+IRQ,Iraq,2024,0.0,0.0,0.0,IRQ,0.0,Middle East & North Africa,Upper middle income,0.0,0.0,1.0,0.2
+ISL,Iceland,2024,0.0,583.0,0.0,ISL,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+ISR,Israel,2024,0.0,0.0,0.0,ISR,0.0,Middle East & North Africa,High income,0.0,0.0,1.0,0.2
+ITA,Italy,2024,0.0,119459.0,1727.0,ITA,0.0,Europe & Central Asia,High income,0.0,0.0,0.9591319986748071,0.19182639973496143
+JAM,Jamaica,2024,0.0,535.0,13.0,JAM,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,0.9996923659425434,0.1999384731885087
+JOR,Jordan,2024,0.0,0.0,0.0,JOR,0.0,Middle East & North Africa,Lower middle income,0.0,0.0,1.0,0.2
+JPN,Japan,2024,0.0,0.0,0.0,JPN,0.0,East Asia & Pacific,High income,0.0,0.0,1.0,0.2
+KAZ,Kazakhstan,2024,0.0,1165.0,0.0,KAZ,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,1.0,0.2
+KEN,Kenya,2024,0.0,12.0,0.0,KEN,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+KHM,Cambodia,2024,0.0,305.0,0.0,KHM,0.0,East Asia & Pacific,Lower middle income,0.0,0.0,1.0,0.2
+KIR,Kiribati,2024,0.0,0.0,0.0,KIR,0.0,East Asia & Pacific,Lower middle income,0.0,0.0,1.0,0.2
+KWT,Kuwait,2024,0.0,704.0,0.0,KWT,0.0,Middle East & North Africa,High income,0.0,0.0,1.0,0.2
+LBN,Lebanon,2024,0.0,0.0,0.0,LBN,0.0,Middle East & North Africa,Lower middle income,0.0,0.0,1.0,0.2
+LBR,Liberia,2024,0.0,0.0,0.0,LBR,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+LBY,Libya,2024,0.0,0.0,0.0,LBY,0.0,Middle East & North Africa,Upper middle income,0.0,0.0,1.0,0.2
+LIE,Liechtenstein,2024,0.0,21.0,1.0,LIE,0.0,Europe & Central Asia,High income,0.0,0.0,0.9999763358417341,0.1999952671683468
+LKA,Sri Lanka,2024,0.0,91.0,17.0,LKA,0.0,South Asia,Lower middle income,0.0,0.0,0.9995977093094799,0.19991954186189598
+LSO,Lesotho,2024,0.0,0.0,0.0,LSO,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+LTU,Lithuania,2024,4604865.0,10125.0,37.0,LTU,0.0,Europe & Central Asia,High income,0.00033912228594956115,0.0,0.9991244261441621,0.19996053414321227
+LUX,Luxembourg,2024,0.0,3505.0,0.0,LUX,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+LVA,Latvia,2024,0.0,64.0,10.0,LVA,0.0,Europe & Central Asia,High income,0.0,0.0,0.9997633584173411,0.19995267168346822
+MAR,Morocco,2024,0.0,846.0,5.0,MAR,0.0,Middle East & North Africa,Lower middle income,0.0,0.0,0.9998816792086705,0.19997633584173413
+MCO,Monaco,2024,0.0,0.0,0.0,MCO,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+MDA,Moldova,2024,0.0,6459.0,71.0,MDA,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,0.9983198447631217,0.19966396895262437
+MDG,Madagascar,2024,0.0,85.0,2.0,MDG,0.0,Sub-Saharan Africa,Low income,0.0,0.0,0.9999526716834682,0.19999053433669367
+MDV,Maldives,2024,0.0,0.0,0.0,MDV,0.0,South Asia,Upper middle income,0.0,0.0,1.0,0.2
+MEX,Mexico,2024,0.0,11042.0,425.0,MEX,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,0.9899427327369965,0.1979885465473993
+MHL,Marshall Islands,2024,0.0,159.0,0.0,MHL,0.0,East Asia & Pacific,Upper middle income,0.0,0.0,1.0,0.2
+MKD,North Macedonia,2024,0.0,608.0,13.0,MKD,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,0.9996923659425434,0.1999384731885087
+MLI,Mali,2024,0.0,2.0,0.0,MLI,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+MLT,Malta,2024,1408793.0,1774.0,31.0,MLT,0.0,Middle East & North Africa,High income,0.00010374964360295907,0.0,0.9992664110937574,0.19989478207619266
+MMR,Myanmar,2024,0.0,1437.0,0.0,MMR,0.0,East Asia & Pacific,Lower middle income,0.0,0.0,1.0,0.2
+MNE,Montenegro,2024,0.0,0.0,0.0,MNE,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,1.0,0.2
+MNG,Mongolia,2024,0.0,155.0,0.0,MNG,0.0,East Asia & Pacific,Upper middle income,0.0,0.0,1.0,0.2
+MNP,Northern Mariana Islands,2024,0.0,571.0,0.0,MNP,0.0,East Asia & Pacific,High income,0.0,0.0,1.0,0.2
+MOZ,Mozambique,2024,0.0,112.0,2.0,MOZ,0.0,Sub-Saharan Africa,Low income,0.0,0.0,0.9999526716834682,0.19999053433669367
+MRT,Mauritania,2024,0.0,85.0,0.0,MRT,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+MUS,Mauritius,2024,0.0,4447.0,13.0,MUS,0.0,Sub-Saharan Africa,Upper middle income,0.0,0.0,0.9996923659425434,0.1999384731885087
+MWI,Malawi,2024,0.0,0.0,0.0,MWI,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+MYS,Malaysia,2024,72657288.0,82088.0,58.0,MYS,0.0,East Asia & Pacific,Upper middle income,0.005350798687356875,0.0,0.9986274788205783,0.20186581523905844
+NAM,Namibia,2024,0.0,284.0,5.0,NAM,0.0,Sub-Saharan Africa,Upper middle income,0.0,0.0,0.9998816792086705,0.19997633584173413
+NCL,New Caledonia,2024,0.0,99.0,0.0,NCL,0.0,East Asia & Pacific,High income,0.0,0.0,1.0,0.2
+NER,Niger,2024,0.0,3.0,0.0,NER,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+NGA,Nigeria,2024,0.0,0.0,0.0,NGA,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+NIC,Nicaragua,2024,0.0,70.0,0.0,NIC,0.0,Latin America & Caribbean,Lower middle income,0.0,0.0,1.0,0.2
+NLD,Netherlands,2024,0.0,8978.0,0.0,NLD,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+NOR,Norway,2024,0.0,8716.0,0.0,NOR,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+NPL,Nepal,2024,0.0,0.0,0.0,NPL,0.0,South Asia,Lower middle income,0.0,0.0,1.0,0.2
+NRU,Nauru,2024,0.0,0.0,0.0,NRU,0.0,East Asia & Pacific,High income,0.0,0.0,1.0,0.2
+NZL,New Zealand,2024,13398398.0,198673.0,661.0,NZL,0.0,East Asia & Pacific,High income,0.000986716300656377,0.0,0.9843579913862464,0.19726628479751185
+OMN,Oman,2024,0.0,0.0,0.0,OMN,0.0,Middle East & North Africa,High income,0.0,0.0,1.0,0.2
+OWID_KOS,Kosovo,2024,0.0,0.0,0.0,XKX,0.0,,,0.0,0.0,1.0,0.2
+OWID_NAM,North America,2024,1158547416.0,65285.0,30073.0,NAC,0.0,,,0.08532047043613161,0.0,0.28834776846987553,0.09179774186842776
+OWID_WRL,World,2024,13578774356.0,2063363.0,42258.0,WLD,0.0,,,1.0,0.0,1.1102230246251565e-16,0.4
+PAK,Pakistan,2024,0.0,0.0,0.0,PAK,0.0,South Asia,Lower middle income,0.0,0.0,1.0,0.2
+PAN,Panama,2024,0.0,1994.0,94.0,PAN,0.0,Latin America & Caribbean,High income,0.0,0.0,0.9977755691230062,0.19955511382460125
+PER,Peru,2024,0.0,21757.0,459.0,PER,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,0.9891381513559563,0.19782763027119127
+PHL,Philippines,2024,0.0,8183.0,69.0,PHL,0.0,East Asia & Pacific,Lower middle income,0.0,0.0,0.9983671730796535,0.1996734346159307
+PLW,Palau,2024,0.0,107.0,1.0,PLW,0.0,East Asia & Pacific,High income,0.0,0.0,0.9999763358417341,0.1999952671683468
+PNG,Papua New Guinea,2024,0.0,0.0,0.0,PNG,0.0,East Asia & Pacific,Lower middle income,0.0,0.0,1.0,0.2
+POL,Poland,2024,0.0,38734.0,488.0,POL,0.0,Europe & Central Asia,High income,0.0,0.0,0.9884518907662454,0.19769037815324908
+PRI,Puerto Rico,2024,0.0,0.0,0.0,PRI,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+PRT,Portugal,2024,0.0,24610.0,880.0,PRT,0.0,Europe & Central Asia,High income,0.0,0.0,0.9791755407260164,0.1958351081452033
+PRY,Paraguay,2024,0.0,0.0,0.0,PRY,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,1.0,0.2
+PYF,French Polynesia,2024,0.0,160.0,1.0,PYF,0.0,East Asia & Pacific,High income,0.0,0.0,0.9999763358417341,0.1999952671683468
+QAT,Qatar,2024,0.0,0.0,0.0,QAT,0.0,Middle East & North Africa,High income,0.0,0.0,1.0,0.2
+ROU,Romania,2024,0.0,29026.0,111.0,ROU,0.0,Europe & Central Asia,High income,0.0,0.0,0.9973732784324861,0.19947465568649725
+RWA,Rwanda,2024,0.0,56.0,0.0,RWA,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+SAU,Saudi Arabia,2024,0.0,0.0,0.0,SAU,0.0,Middle East & North Africa,High income,0.0,0.0,1.0,0.2
+SDN,Sudan,2024,0.0,0.0,0.0,SDN,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+SEN,Senegal,2024,0.0,435.0,0.0,SEN,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+SGP,Singapore,2024,0.0,81640.0,70.0,SGP,0.0,East Asia & Pacific,High income,0.0,0.0,0.9983435089213877,0.19966870178427754
+SLB,Solomon Islands,2024,0.0,0.0,0.0,SLB,0.0,East Asia & Pacific,Lower middle income,0.0,0.0,1.0,0.2
+SLE,Sierra Leone,2024,0.0,200.0,0.0,SLE,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+SLV,El Salvador,2024,0.0,84.0,0.0,SLV,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,1.0,0.2
+SMR,San Marino,2024,0.0,0.0,0.0,SMR,0.0,Europe & Central Asia,High income,0.0,0.0,1.0,0.2
+SOM,Somalia,2024,0.0,0.0,0.0,SOM,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+SRB,Serbia,2024,0.0,0.0,0.0,SRB,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,1.0,0.2
+SSD,South Sudan,2024,0.0,4.0,0.0,SSD,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+STP,Sao Tome and Principe,2024,0.0,35.0,0.0,STP,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+SUR,Suriname,2024,0.0,6.0,2.0,SUR,0.0,Latin America & Caribbean,Upper middle income,0.0,0.0,0.9999526716834682,0.19999053433669367
+SVN,Slovenia,2024,0.0,2167.0,223.0,SVN,0.0,Europe & Central Asia,High income,0.0,0.0,0.9947228927067064,0.1989445785413413
+SWE,Sweden,2024,28312817.0,8564.0,713.0,SWE,0.0,Europe & Central Asia,High income,0.0020850789811887203,0.0,0.9831274551564201,0.19745952262375951
+SWZ,Eswatini,2024,0.0,165.0,0.0,SWZ,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+SXM,Sint Maarten (Dutch part),2024,0.0,0.0,0.0,SXM,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+SYC,Seychelles,2024,0.0,666.0,0.0,SYC,0.0,Sub-Saharan Africa,High income,0.0,0.0,1.0,0.2
+TCA,Turks and Caicos Islands,2024,0.0,95.0,0.0,TCA,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+TCD,Chad,2024,0.0,4.0,0.0,TCD,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+TGO,Togo,2024,0.0,3.0,0.0,TGO,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+THA,Thailand,2024,0.0,36805.0,198.0,THA,0.0,East Asia & Pacific,Upper middle income,0.0,0.0,0.9953144966633537,0.19906289933267074
+TJK,Tajikistan,2024,0.0,0.0,0.0,TJK,0.0,Europe & Central Asia,Lower middle income,0.0,0.0,1.0,0.2
+TKM,Turkmenistan,2024,0.0,0.0,0.0,TKM,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,1.0,0.2
+TON,Tonga,2024,0.0,27.0,0.0,TON,0.0,East Asia & Pacific,Upper middle income,0.0,0.0,1.0,0.2
+TTO,Trinidad and Tobago,2024,0.0,0.0,0.0,TTO,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+TUN,Tunisia,2024,0.0,0.0,0.0,TUN,0.0,Middle East & North Africa,Lower middle income,0.0,0.0,1.0,0.2
+TUV,Tuvalu,2024,0.0,0.0,0.0,TUV,0.0,East Asia & Pacific,Upper middle income,0.0,0.0,1.0,0.2
+TZA,Tanzania,2024,0.0,7.0,0.0,TZA,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,1.0,0.2
+UGA,Uganda,2024,0.0,266.0,0.0,UGA,0.0,Sub-Saharan Africa,Low income,0.0,0.0,1.0,0.2
+UKR,Ukraine,2024,0.0,5775.0,2.0,UKR,0.0,Europe & Central Asia,Upper middle income,0.0,0.0,0.9999526716834682,0.19999053433669367
+URY,Uruguay,2024,0.0,3453.0,57.0,URY,0.0,Latin America & Caribbean,High income,0.0,0.0,0.9986511429788443,0.19973022859576886
+USA,United States,2024,0.0,0.0,28689.0,USA,0.0,North America,High income,0.0,0.0,0.321098963509868,0.0642197927019736
+UZB,Uzbekistan,2024,0.0,0.0,0.0,UZB,0.0,Europe & Central Asia,Lower middle income,0.0,0.0,1.0,0.2
+VGB,British Virgin Islands,2024,0.0,137.0,0.0,VGB,0.0,Latin America & Caribbean,High income,0.0,0.0,1.0,0.2
+VUT,Vanuatu,2024,0.0,0.0,0.0,VUT,0.0,East Asia & Pacific,Lower middle income,0.0,0.0,1.0,0.2
+WSM,Samoa,2024,0.0,95.0,0.0,WSM,0.0,East Asia & Pacific,Lower middle income,0.0,0.0,1.0,0.2
+ZAF,South Africa,2024,0.0,129.0,0.0,ZAF,0.0,Sub-Saharan Africa,Upper middle income,0.0,0.0,1.0,0.2
+ZMB,Zambia,2024,0.0,538.0,8.0,ZMB,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,0.9998106867338729,0.1999621373467746
+ZWE,Zimbabwe,2024,0.0,315.0,9.0,ZWE,0.0,Sub-Saharan Africa,Lower middle income,0.0,0.0,0.999787022575607,0.19995740451512142
