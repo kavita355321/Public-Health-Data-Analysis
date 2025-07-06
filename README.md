@@ -50,9 +50,10 @@ Public-Health-Data-Analysis
 - scikit-learn
 - statsmodels
 
+---
+
 Install all dependencies using:
 
-```bash
 pip install -r requirements.txt
 
 📈 How to Use
@@ -68,9 +69,12 @@ python health_analysis.py
 # Step 4: Forecast future vaccination coverage
 python forecast_vaccination.py
 
+---
 
 ## 👩‍💻 About Me
 **Kavita**
 🎓 BSc Hons. Computer Science | Delhi University  
 📫 Email: kavita355321@gmail.com  
 📍 New Delhi, India
+
+
