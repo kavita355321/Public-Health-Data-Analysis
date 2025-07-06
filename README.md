@@ -7,20 +7,17 @@ This project analyzes global public health spending and COVID-19 vaccination tre
 
 ## 🧩 Project Structure
 
-Public Health/
-│
-├── data/
-│ ├── owid-covid-data.csv # Raw COVID data
-│ ├── global_vax_equity.csv # Final merged dataset
-│ ├── API_SH.XPD.CHEX.GD.ZS_DS2_en_.csv # Health expenditure data
-│ └── Metadata_Country_API_.csv # Metadata (region, income)
-│
-├── eda.py # Exploratory Data Analysis
-├── etl.py # Data Cleaning & Transformation
-├── health_analysis.py # Core Analysis (Spending vs Outcomes)
-├── forecast_vaccination.py # Forecasting Vaccination Rates
-└── pycache/ # Python bytecode (ignore)
-
+Public-Health-Data-Analysis
+→ data
+   → owid-covid-data.csv              # Raw COVID data
+   → global_vax_equity.csv            # Final merged dataset
+   → API_SH.XPD.CHEX.GD.ZS_DS2_en_.csv # Health expenditure data
+   → Metadata_Country_API_.csv        # Metadata (region, income)
+→ eda.py                              # Exploratory Data Analysis
+→ etl.py                              # Data Cleaning & Transformation
+→ health_analysis.py                 # Core Analysis (Spending vs Outcomes)
+→ forecast_vaccination.py            # Forecasting Vaccination Rates
+→ __pycache__                        # Python bytecode (can be ignored)
 
 ---
 
@@ -73,7 +70,7 @@ python forecast_vaccination.py
 
 
 ## 👩‍💻 About Me
-**Kavita** – Aspiring Data Analyst  
+**Kavita**
 🎓 BSc Hons. Computer Science | Delhi University  
 📫 Email: kavita355321@gmail.com  
 📍 New Delhi, India
